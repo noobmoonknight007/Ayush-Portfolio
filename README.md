@@ -1,4 +1,3 @@
-![Watch Now](./img/Design.jpg)
 # Ayush Mishra Official Portfolio Website
 **Contact Me Through Gmail - mysterioayush07@gmail.com**
 
